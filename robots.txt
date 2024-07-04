@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sableardi.github.io/sitemap
+Sitemap: https://sableardi.github.io/app/sitemap
+Sitemap: https://sableardi.github.io/assets/sitemap
+Sitemap: https://sableardi.github.io/css/sitemap
+Sitemap: https://sableardi.github.io/includes/sitemap
+Sitemap: https://sableardi.github.io/item/sitemap
+Sitemap: https://sableardi.github.io/src/sitemap
